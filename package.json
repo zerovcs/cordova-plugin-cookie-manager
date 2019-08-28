@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-cookie-manager",
+  "version": "1.0.0",
+  "description": "This plugins allows you to flush cookies in Android, moving them to persistent memory. Works on iOS but does nothing (calling \"flush\" wont provoke an error).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/surgeventures/cordova-plugin-cookie-manager.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/surgeventures/cordova-plugin-cookie-manager/issues"
+  },
+  "homepage": "https://github.com/surgeventures/cordova-plugin-cookie-manager#readme"
+}
