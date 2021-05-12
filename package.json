@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/surgeventures/cordova-plugin-cookie-manager.git"
+    "url": "git+https://github.com/zerovcs/cordova-plugin-cookie-manager.git"
   },
   "author": "",
   "license": "ISC",
